@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="ChatGPT Image May 20, 2026, 12_40_14 AM.png" width="100%">
+</p>
+
+
 <h1 align="center">Hello 👋, I'm Naima Islam. Welcome to my innovation world❤️🎉 </h1>
 
 <h3 align="center">
@@ -15,9 +20,7 @@ AI Researcher | Deep Learning Explorer | Prospective PhD Candidate
 
 ---
 
-<p align="center">
-  <img src="ChatGPT Image May 20, 2026, 12_40_14 AM.png" width="100%">
-</p>
+
 
 ## 🌐 Connect with me
 
