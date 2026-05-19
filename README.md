@@ -15,6 +15,10 @@ AI Researcher | Deep Learning Explorer | Prospective PhD Candidate
 
 ---
 
+<p align="center">
+  <img src="ChatGPT Image May 20, 2026, 12_40_14 AM.png" width="100%">
+</p>
+
 ## 🌐 Connect with me
 
 <p align="left">
