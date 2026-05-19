@@ -17,7 +17,29 @@ AI Researcher | Deep Learning Explorer | Prospective PhD Candidate
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/naimaislam200601)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/naimaislam200601" target="_blank" style="text-decoration:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=0257Z-kAAAAJ&hl=en&oi=ao" target="_blank" style="text-decoration:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="50"/>
+</a>
+
+<a href="https://orcid.org/0009-0007-2056-1525" target="_blank" style="text-decoration:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="50"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Naima-Islam-6?ev=hdr_xprf" target="_blank" style="text-decoration:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" width="50"/>
+</a>
+
+<a href="https://www.webofscience.com/wos/author/record/PTF-4856-2026?state=%7B%7D" target="_blank" style="text-decoration:none;">
+<img src="https://images.seeklogo.com/logo-png/45/1/web-of-science-logo-png_seeklogo-455469.png" width="50"/>
+</a>
+
+</p>
 
 ---
 
