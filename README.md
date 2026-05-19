@@ -36,7 +36,7 @@ AI Researcher | Deep Learning Explorer | Prospective PhD Candidate
 </a>
 
 <a href="https://www.webofscience.com/wos/author/record/PTF-4856-2026?state=%7B%7D" target="_blank" style="text-decoration:none;">
-<img src="https://images.seeklogo.com/logo-png/45/1/web-of-science-logo-png_seeklogo-455469.png" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Web_of_Science_logo.png" width="50"/>
 </a>
 
 </p>
