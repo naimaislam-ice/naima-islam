@@ -25,14 +25,40 @@ AI Researcher | Embedded Systems Enthusiast | Deep Learning Explorer
 
 ## 💻 Languages and Tools
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<p align="left">
 
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</a>
 
+<a href="https://www.mathworks.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+</a>
+
+<a href="https://scikit-learn.org/stable/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+</a>
+
 </p>
 
 ---
